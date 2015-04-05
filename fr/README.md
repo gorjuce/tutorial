@@ -10,11 +10,11 @@ This tutorial has been translated from English to French by a group of awesome v
 
 ## Introduction
 
-Avez vous déjà eu l'impression que la technologie prend une place de plus en plus importante, mais que vous êtes en quelque sort laissé·e à la traîne ? Avez vous déjà été curieux·se de comment créer un site web, sans jamais avoir le courage de vous plonger dedans ? Vous êtes vous déjà dit que le monde du logiciel est trop compliqué pour savoir ne serait-ce que par où l'attaquer ?
+Avez vous déjà eu l'impression que la technologie prend une place de plus en plus importante, mais que vous êtes en quelque sort laissé à la traîne ? Avez vous déjà été curieux de savoir comment créer un site web, sans jamais avoir le courage de vous plonger dedans ? Vous êtes vous déjà dit que le monde du logiciel est trop compliqué pour savoir ne serait-ce que par où l'attaquer ?
 
 Hé bien, bonne nouvelle ! Programmer n'est pas aussi dur que ça en a l'air, et nous sommes là pour vous montrer à quel point ça peut être fun.
 
-Ce tutoriel ne va pas vous transformer en programmeur·se du jour au lendemain. Devenir vraiment bon·ne peut prendre des mois, voire même des années d'apprentissage et de pratique. Mais nous voulons vous montrer que programmer ou créer des sites web n'est pas aussi compliqué que ça en a l'air. Nous allons essayer de notre mieux de vous expliquer différents morceaux de la technologie, pour la rendre moins intimidante.
+Ce tutoriel ne va pas vous transformer en programmeur du jour au lendemain. Devenir vraiment bon peut prendre des mois, voire même des années d'apprentissage et de pratique. Mais nous voulons vous montrer que programmer ou créer des sites web n'est pas aussi compliqué que ça en a l'air. Nous allons essayer de notre mieux de vous expliquer différents morceaux de la technologie, pour la rendre moins intimidante.
 
 Nous espérons arriver à vous faire aimer la technologie autant que nous l'aimons !
 
